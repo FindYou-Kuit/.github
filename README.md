@@ -1,6 +1,6 @@
 # FindYou
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=F78015&background=FFDA9800&width=435&lines=Kuit+4%EA%B8%B0+Project+%3A+%EC%B0%BE%EC%95%84%EC%9C%A0+Find-You)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&pause=1000&color=F78015&background=FFDA9800&width=435&lines=Kuit+4th+Project+%3A+%EC%B0%BE%EC%95%84%EC%9C%A0+Find-You)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=찾아유&fontSize=50&fontAlign=70)
 
