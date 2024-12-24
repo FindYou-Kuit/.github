@@ -4,7 +4,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=찾아유&fontSize=50&fontAlign=70)
 
-### PM
+**Android Repo** : [https://github.com/FindYou-Kuit/FindYou-Android](https://github.com/FindYou-Kuit/FindYou-Android)
+
+**Back-End Repo** : [https://github.com/FindYou-Kuit/FindYou-Server](https://github.com/FindYou-Kuit/FindYou-Server)
+
+
+### PM & Android
 
 <table>
   <tbody>
@@ -12,15 +17,6 @@
       <td align="center"><a href="https://github.com/ikseong00">
       <img width=140px src="https://avatars.githubusercontent.com/u/127182222?v=4" alt=""/><br />
       <sub><b>[PM] 조익성</b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
-
-### Android
-
-<table>
-  <tbody>
-    <tr>
       <td align="center"><a href="https://github.com/MinseoSONG">
       <img width=140px src="https://avatars.githubusercontent.com/u/105851903?s=96&v=4" alt=""/><br />
       <sub><b>[Android] 송민서</b></sub></a><br /></td>
@@ -31,7 +27,7 @@
   </tbody>
 </table>
 
-### Server
+### Back-End
 
 <table>
   <tbody>
