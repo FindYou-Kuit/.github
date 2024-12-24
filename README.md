@@ -21,11 +21,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Nico1eKim">
-      <img width=140px src="" alt=""/><br />
+      <td align="center"><a href="https://github.com/MinseoSONG">
+      <img width=140px src="https://avatars.githubusercontent.com/u/105851903?s=96&v=4" alt=""/><br />
       <sub><b>[Android] 송민서</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/casper-jr">
-      <img width=140px src="" alt=""/><br />
+      <td align="center"><a href="https://github.com/nasohee">
+      <img width=140px src="https://avatars.githubusercontent.com/u/142219494?v=4" alt=""/><br />
       <sub><b>[Android] 김소희</b></sub></a><br /></td>
     </tr>
   </tbody>
@@ -36,15 +36,15 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Nico1eKim">
-      <img width=140px src="" alt=""/><br />
-      <sub><b>[Android] 장익환</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/casper-jr">
-      <img width=140px src="4" alt=""/><br />
-      <sub><b>[Android] 김상균</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/casper-jr">
-      <img width=140px src="" alt=""/><br />
-      <sub><b>[Android] 정주연</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/JangIkhwan">
+      <img width=140px src="https://avatars.githubusercontent.com/u/87964632?s=64&v=4" alt=""/><br />
+      <sub><b>[Server] 장익환</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ksg1227">
+      <img width=140px src="https://avatars.githubusercontent.com/u/66379250?v=4" alt=""/><br />
+      <sub><b>[Server] 김상균</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/JJUYAAA">
+      <img width=140px src="https://avatars.githubusercontent.com/u/121420399?v=4" alt=""/><br />
+      <sub><b>[Server] 정주연</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
